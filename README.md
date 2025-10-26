@@ -1,3 +1,11 @@
+Copyright 2025 ArthaShield Open Collective
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
 # ArthaShield Explainability Engine
 
 An open-source project by the **ArthaShield Collective** to make AI reasoning transparent and human-understandable — for regulators, developers, and citizens.
@@ -7,7 +15,7 @@ AI systems influence decisions in banking, finance, insurance, and governance.
 The Explainability Engine bridges the gap between complex model reasoning and the clarity required by oversight teams.
 
 ##  Current MVP
-- **Backend:** FastAPI or Java Spring oot service that parses model traces  
+- **Backend:** FastAPI or Java Spring Boot service that parses model traces  
 - **Frontend:** React dashboard to visualize insights  
 - **Output:** Plain-language summaries, confidence scores, and risk highlights  
 
