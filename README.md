@@ -8,7 +8,7 @@ The Explainability Engine bridges the gap between complex model reasoning and th
 
 ##  Current MVP
 - **Backend:** FastAPI or Java Spring service that parses model traces  
-- **Frontend:** React / Angular dashboard to visualize insights  
+- **Frontend:** React dashboard to visualize insights  
 - **Output:** Plain-language summaries, confidence scores, and risk highlights  
 
 ##  Why Co-Create
