@@ -6,3 +6,4 @@ class ExplainRequest(BaseModel):
 
 class ExplainResponse(BaseModel):
     trace: List[str]
+    nl_justification: str
