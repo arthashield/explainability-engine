@@ -1,0 +1,4 @@
+fastapi
+uvicorn[minimal]
+minio
+pydantic
