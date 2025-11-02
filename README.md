@@ -38,11 +38,11 @@ This initiative welcomes contributors from India and beyond to:
 - Develop community-owned tools for regulators and enterprises
 
 ## Advantages of Co-Create 
-Early Insight: Experience new capabilities before broader rollout.
-Shape the Outcome: Your real workflows directly influence product evolution.
-Learn Agentic Workflows: Teams build intuition and skills as they use the system, not through theory.
-Shared Confidence: Both sides validate what works in live conditions.
-Co-Creation Credit: Recognized as a thought partner in building the RegTech standard.
+- Early Insight: Experience new capabilities before broader rollout.
+- Shape the Outcome: Your real workflows directly influence product evolution.
+- Learn Agentic Workflows: Teams build intuition and skills as they use the system, not through theory.
+- Shared Confidence: Both sides validate what works in live conditions.
+- Co-Creation Credit: Recognized as a thought partner in building the RegTech standard.
 
 ##  Getting Started
 ```bash
