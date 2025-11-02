@@ -31,13 +31,13 @@ Engine should auto-classify and route complaints with explainability and audit s
 - **Frontend:** React dashboard to visualize insights  
 - **Output:** Plain-language summaries, confidence scores, and risk highlights  
 
-##  Why Co-Create
+##  Why Co-Create / Test Together
 This initiative welcomes contributors from India and beyond to:
 - Build transparent AI together  
 - Create open explainability standards  
 - Develop community-owned tools for regulators and enterprises
 
-## Advantages of Co-Create 
+## Advantages of Co-Create / Test Together
 - Early Insight: Experience new capabilities before broader rollout.
 - Shape the Outcome: Your real workflows directly influence product evolution.
 - Learn Agentic Workflows: Teams build intuition and skills as they use the system, not through theory.
