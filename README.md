@@ -26,7 +26,7 @@ Engine should auto-classify and route complaints with explainability and audit s
 | **Explainability for Every Decision**   | Human & auditor can see *why*           | Builds trust, compliance, defensibility                  |
 
 
-##  Current MVP
+##  Proposed Tech Stack
 - **Backend:** FastAPI or Java Spring Boot service that parses model traces  
 - **Frontend:** React dashboard to visualize insights  
 - **Output:** Plain-language summaries, confidence scores, and risk highlights  
