@@ -14,7 +14,7 @@ An open-source project by the **ArthaShield Collective** to make AI reasoning tr
 AI systems influence decisions in banking, finance, insurance, and governance.  
 The Explainability Engine bridges the gap between complex model reasoning and the clarity required by oversight teams.
 
-## Challenge
+## Current Challenge
 Engine should auto-classify and route complaints with explainability and audit safety — and show clear efficiency gain
 
 | Goal                                    | Meaning                                 | Why                                                      |
@@ -22,7 +22,7 @@ Engine should auto-classify and route complaints with explainability and audit s
 | **Consistent Complaint Categorization** | AI categorizes complaint types reliably | Reduces analyst subjectivity & errors                    |
 | **Duplicate / Similar Case Detection**  | Flags repeated / pattern-based cases    | Cuts resolution time & backlog                           |
 | **Risk & SLA Scoring**                  | Assigns urgency + severity              | Improves prioritization & reduces regulatory escalations |
-| **Auto-Routing to the Right Queue**     | Moves case to correct team first try    | Eliminates rework & ping-pong between teams              |
+| **Auto-Routing to the Right Queue**     | Moves case to correct team first        | Eliminates rework & ping-pong between teams              |
 | **Explainability for Every Decision**   | Human & auditor can see *why*           | Builds trust, compliance, defensibility                  |
 
 
