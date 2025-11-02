@@ -17,13 +17,14 @@ The Explainability Engine bridges the gap between complex model reasoning and th
 ## Current Challenge
 Engine should auto-classify and route complaints with explainability and audit safety — and show clear efficiency gain
 
-| Goal                                    | Meaning                                 | Why                                                      |
-| --------------------------------------- | --------------------------------------- | -------------------------------------------------------- |
-| **Consistent Complaint Categorization** | AI categorizes complaint types reliably | Reduces analyst subjectivity & errors                    |
-| **Duplicate / Similar Case Detection**  | Flags repeated / pattern-based cases    | Cuts resolution time & backlog                           |
-| **Risk & SLA Scoring**                  | Assigns urgency + severity              | Improves prioritization & reduces regulatory escalations |
-| **Auto-Routing to the Right Queue**     | Moves case to correct team first        | Eliminates rework & ping-pong between teams              |
-| **Explainability for Every Decision**   | Human & auditor can see *why*           | Builds trust, compliance, defensibility                  |
+| Goal                                    | Meaning / What It Does                                              | Why It Matters (Impact)                                                |
+| --------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Consistent Complaint Categorization** | LLM / Knowledge Agent assigns standard complaint category taxonomy. | Reduces analyst subjectivity & misclassification. Enables SLA routing. |
+| **Duplicate / Similar Case Detection**  | System detects historically similar complaints across channels.     | Reduces backlog + response time; improves pattern discovery.           |
+| **Risk & SLA Scoring**                  | Assigns urgency, impact, and regulatory severity score.             | Ensures that **high-risk** grievances are **never delayed**.           |
+| **Auto-Routing to the Right Queue**     | Integration Agent routes the case to correct queue/team.            | Eliminates rework, escalation ping-pong, and customer frustration.     |
+| **Explainability for Every Decision**   | Trace + Natural Language Justification for each step.               | **Auditor-ready transparency** → critical for BFSI / GovTech rollout.  |
+
 
 
 ##  Tech Stack Supported
