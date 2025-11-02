@@ -26,7 +26,7 @@ Engine should auto-classify and route complaints with explainability and audit s
 | **Explainability for Every Decision**   | Human & auditor can see *why*           | Builds trust, compliance, defensibility                  |
 
 
-##  Proposed Tech Stack
+##  Tech Stack Supported
 - **Backend:** FastAPI or Java Spring Boot service that parses model traces  
 - **Frontend:** React dashboard to visualize insights  
 - **Output:** Plain-language summaries, confidence scores, and risk highlights  
@@ -35,7 +35,14 @@ Engine should auto-classify and route complaints with explainability and audit s
 This initiative welcomes contributors from India and beyond to:
 - Build transparent AI together  
 - Create open explainability standards  
-- Develop community-owned tools for regulators and enterprises  
+- Develop community-owned tools for regulators and enterprises
+
+## Advantages of Co-Create 
+Early Insight: Experience new capabilities before broader rollout.
+Shape the Outcome: Your real workflows directly influence product evolution.
+Learn Agentic Workflows: Teams build intuition and skills as they use the system, not through theory.
+Shared Confidence: Both sides validate what works in live conditions.
+Co-Creation Credit: Recognized as a thought partner in building the RegTech standard.
 
 ##  Getting Started
 ```bash
