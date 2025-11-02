@@ -31,18 +31,14 @@ Engine should auto-classify and route complaints with explainability and audit s
 - **Frontend:** React dashboard to visualize insights  
 - **Output:** Plain-language summaries, confidence scores, and risk highlights  
 
-##  Why Co-Create / Test Together
+##  Advantages of Co-Create / Test Together
 This initiative welcomes contributors from India and beyond to:
-- Build transparent AI together  
-- Create open explainability standards  
-- Develop community-owned tools for regulators and enterprises
-
-## Advantages of Co-Create / Test Together
 - Early Insight: Experience new capabilities before broader rollout.
 - Shape the Outcome: Your real workflows directly influence product evolution.
 - Learn Agentic Workflows: Teams build intuition and skills as they use the system, not through theory.
 - Shared Confidence: Both sides validate what works in live conditions.
-- Co-Creation Credit: Recognized as a thought partner in building the RegTech standard.
+- Co-Creation / Verification Credit: Recognized as a thought partner in building the Open Explainability standard.
+- Develop community-owned tools for regulators and enterprises
 
 ##  Getting Started
 ```bash
